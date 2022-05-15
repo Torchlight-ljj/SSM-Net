@@ -1,0 +1,5 @@
+##examples
+./data/ori/0/names/xxx.jpg
+./data/ori/1/names/xxx.jpg
+./data/ori/2/names/xxx.jpg
+./data/ori/3/names/xxx.jpg
